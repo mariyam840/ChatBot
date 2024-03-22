@@ -2,7 +2,7 @@
     ──「 ᴄʜᴀᴛʙᴏᴛ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/b55448f8abd23f24ee425.jpg">
+  <img src="https://graph.org/file/f4270ab738646e60864a4.jpg">
 </p>
 
 <h3 align="center">
